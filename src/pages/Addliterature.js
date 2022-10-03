@@ -172,7 +172,6 @@ function Addliterature() {
                             <button
                                 class="btn btn-danger float-md-end btn-l d-grid gap-2 col-2"
                                 type="submit"
-
                             >
                                 Add Literature
                             </button>
